@@ -6,7 +6,7 @@ MOS is a group led by 2 cousins who developed many projects under the name of th
 Currently they are working together for their 3rd project MOS-PB95.
 
 # Current Status
-They are working on a new PB95 mod, and the MamacOS-Batch project is halted.
+Whole Project is Halted, Will be continued with MasterOS-Rust
 
 # Screenshots
 Coming soon...
